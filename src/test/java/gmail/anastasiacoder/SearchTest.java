@@ -57,6 +57,7 @@ public class SearchTest extends TestBase {
         );
     }
 
+    //4.MethodSource
     @MethodSource
     @Tag("blocker")
     @DisplayName("Поиск на myanimelist.net")
