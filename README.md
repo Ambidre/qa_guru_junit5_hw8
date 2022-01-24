@@ -2,7 +2,7 @@
 
 Написаны параметризованные тесты с использованием следующих Argument-провайдеров:
 
-@ValueSource
-@CsvSource
-@EnumSource
-@MethodSource
+1. @ValueSource
+2. @CsvSource
+3. @EnumSource
+4. @MethodSource
